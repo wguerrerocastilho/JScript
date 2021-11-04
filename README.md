@@ -1,5 +1,5 @@
 # JScript
-Biblioteca JavaScript para consistencia de contas correntes bancarias
+Biblioteca JavaScript para consistência de contas correntes bancarias
 
 Funções para calculo do digito de controle (DC) de contas correntes bancárias. Abrange os bancos:
 
